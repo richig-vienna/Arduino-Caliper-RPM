@@ -5,6 +5,8 @@ The RPM values are read by a hall effect sensor.
 The depth values are read by a cheap chinese caliper.
 Both data sources use interupts to raise an event.
 
+https://richard.gfrerer.info/arduino-caliper-rpm/
+
 ----
 Copyright (C) Richard Gfrerer <richard.gfrerer@gmx.net>
 
