@@ -3,6 +3,7 @@ Arduino project for a drill press to show drill rpm (tachometer) and depth.
 RPM and depth values are diplayed on a 16x2 2004a i2c display.
 The RPM values are read by a hall effect sensor.
 The depth values are read by a cheap chinese caliper.
+Both data sources use interupts to raise an event.
 
 ----
 Copyright (C) Richard Gfrerer <richard.gfrerer@gmx.net>
